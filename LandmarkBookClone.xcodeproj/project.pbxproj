@@ -13,6 +13,7 @@
 		D851CB6829118B8E00268028 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D851CB6629118B8E00268028 /* Main.storyboard */; };
 		D851CB6A29118B8F00268028 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D851CB6929118B8F00268028 /* Assets.xcassets */; };
 		D851CB6D29118B8F00268028 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D851CB6B29118B8F00268028 /* LaunchScreen.storyboard */; };
+		D851CB77291198C900268028 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D851CB76291198C900268028 /* DetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D851CB6929118B8F00268028 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D851CB6C29118B8F00268028 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D851CB6E29118B8F00268028 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D851CB76291198C900268028 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				D851CB6929118B8F00268028 /* Assets.xcassets */,
 				D851CB6B29118B8F00268028 /* LaunchScreen.storyboard */,
 				D851CB6E29118B8F00268028 /* Info.plist */,
+				D851CB76291198C900268028 /* DetailsViewController.swift */,
 			);
 			path = LandmarkBookClone;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				D851CB6529118B8E00268028 /* ViewController.swift in Sources */,
 				D851CB6129118B8E00268028 /* AppDelegate.swift in Sources */,
 				D851CB6329118B8E00268028 /* SceneDelegate.swift in Sources */,
+				D851CB77291198C900268028 /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
